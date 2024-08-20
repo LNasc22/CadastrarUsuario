@@ -1,4 +1,4 @@
-package br.pucpr.aula02;
+package br.pucpr.poo.cadastro;
 
 public class User {
 
